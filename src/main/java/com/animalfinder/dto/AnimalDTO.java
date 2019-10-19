@@ -53,22 +53,7 @@ public class AnimalDTO {
 	public void setGenus(String genus) {
 		this.genus = genus;
 	}
-	
-	public String getAge() {
-		return Age;
-	}
-	
-	public void setAge(String genus) {
-		this.Age = Age;
-	}
-	
-	public String getSize() {
-		return Size;
-	}
-	
-	public void setSize(String genus) {
-		this.Size = Size;
-	}
+
 	
 	
 	
