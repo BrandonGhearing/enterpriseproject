@@ -9,8 +9,6 @@ public class AnimalDTO {
 	private String shelter;
 	private String name;
 	private String genus;
-	private String age;
-	private int weight;
 	public int getGuid() {
 		return guid;
 	}
